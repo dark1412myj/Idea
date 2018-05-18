@@ -6,3 +6,8 @@
 ## 2 csvreader.cpp 一个处理CSV数据的简单类，灵活性高
 
 ## 3 ac.py 使用python写的AC自动机
+
+## 4  >>1 和 /2不一样
+  int l=-90,r=-45;  
+  cout<<(l+r>>1)<<endl;//-68  
+  cout<<(l+r)/2<<endl;//-67
